@@ -1,0 +1,2 @@
+containerProvider.Resolve<IFoo>();
+containerProvider.Resolve<IBar>();
